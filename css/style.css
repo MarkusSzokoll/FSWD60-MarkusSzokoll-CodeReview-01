@@ -1,0 +1,39 @@
+
+ul {
+  list-style-type: none;
+  margin: 1%; 
+  padding: 1%;
+  overflow: hidden; 
+  background-color: #653f3f;
+  top: 0.5em;
+  width: 94%;
+  position: sticky;
+
+
+ }
+ 
+li {
+  float: left;
+  border: 0px;
+ }
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-weight: bold;
+ }
+
+.active_nav{
+  color: yellow;
+ }
+
+ footer {
+  text-align: center;
+ }
+
+ footer img{
+  height: 50px;
+  width: 100px;
+ }
