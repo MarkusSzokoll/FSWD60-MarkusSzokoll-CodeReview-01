@@ -100,9 +100,11 @@ footer div div p{
 .main_content_wrapper{
   margin: 10px;
   padding: 10px;
+  display: inline;
+  text-align: center;
 }
 
-.inner_content{
+.inner_content img{
   display: inline;
   margin: 5px;
   padding: 5px;
